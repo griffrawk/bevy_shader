@@ -3,7 +3,9 @@
 Three pulsing cubes
 
 W / S - X Axis
+
 A / D - Y Axis
+
 Q / Z - Z Axis
 
 [ / ] - Rotate
